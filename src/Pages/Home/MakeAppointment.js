@@ -10,7 +10,7 @@ const MakeAppointment = () => {
             background: `url(${appointmentBg})`
         }} className='flex justify-center items-center'>
             <div className='flex-1 hidden lg:block md:block'>
-                <img className='mt-[-200px]' src={doctor} alt="" />
+                <img className='mt-[-140px]' src={doctor} alt="" />
             </div>
             <div className='flex-1 p-4'>
                 <div className='mb-10'>

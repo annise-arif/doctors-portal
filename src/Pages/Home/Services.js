@@ -46,7 +46,7 @@ const Services = () => {
       <div>
         <div className="hero min-h-screen bg-white">
           <div className="hero-content flex-col lg:flex-row grid gap-12 grid-cols-2">
-            <img src={treatment} className=" rounded-lg shadow-2xl " />
+            <img src={treatment} className=" rounded-lg shadow-2xl " alt="" />
             <div className="m-4">
               <h1 className="font-bold lg:text-5xl">
                 Exceptional Dental Care, on Your Terms
